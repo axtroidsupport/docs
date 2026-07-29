@@ -4,6 +4,11 @@
       "id": "prod_7y9y0h1",
       "name": "Akaar E1",
       "category": "3D Printers"
+    },
+    {
+      "id": "prod_0f76ils",
+      "name": "Vyra S1",
+      "category": "VR"
     }
   ],
   "sections": [
@@ -50,7 +55,7 @@
     {
       "id": "top_dfba329",
       "sectionId": "sec_d1bkstr",
-      "title": "Technical Requirements",
+      "title": "Technical Specifications",
       "order": 1,
       "updated": "28 Jul 2026",
       "file": "akaar-e1-getting-started-technical-requirements.json"
