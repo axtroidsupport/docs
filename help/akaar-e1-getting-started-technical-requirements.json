@@ -1,3 +1,9 @@
 {
-  "blocks": []
+  "blocks": [
+    {
+      "id": "blk_7wtou5l",
+      "type": "text",
+      "html": "<p>New text…</p>"
+    }
+  ]
 }
