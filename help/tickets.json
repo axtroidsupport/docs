@@ -1,0 +1,22 @@
+[
+  {
+    "id": "test_1",
+    "date": "",
+    "product": "",
+    "section": "",
+    "topic": "",
+    "query": "testing the relay",
+    "email": "you@example.com",
+    "status": "resolved"
+  },
+  {
+    "id": "tick_4g644d4",
+    "date": "28 Jul 2026",
+    "product": "Akaar E1",
+    "section": "Getting Started",
+    "topic": "Quick Start Guide",
+    "query": "Invalid information",
+    "email": "shahid@axtroid.com",
+    "status": "in-progress"
+  }
+]
